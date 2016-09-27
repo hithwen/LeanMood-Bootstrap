@@ -1,0 +1,5 @@
+npm-debug.log
+node_modules
+src/content/compile_css
+src/js/jquery.js
+.DS_Store

@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-students-assesment",
+  "version": "1.0.0",
+  "description": "Bootstrap exercise for LeanMood",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hithwen/LeanMood-Bootstrap.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Julia S.Simon",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-open": "^2.0.0",
+    "gulp-sass": "^2.3.2"
+  },
+  "bugs": {
+    "url": "https://github.com/hithwen/LeanMood-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/hithwen/LeanMood-Bootstrap#readme"
+}
