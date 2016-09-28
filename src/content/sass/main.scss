@@ -1,3 +1,4 @@
+@import "header.scss";
 @import "variables.scss";
 @import "sticky-footer.scss";
 @import "../../../node_modules/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
@@ -6,15 +7,4 @@
 // TODO: Move this to its own file.
 body {
     padding-top: 70px;
-}
-
-@media screen and (max-width: $screen-sm) {
-  .navbar-brand {
-      img {
-          max-width: 90%;
-          height: auto;
-        //   margin-bottom: 1%;
-      }
-      padding-top: $navbar-padding-vertical / 2;
-  }
 }

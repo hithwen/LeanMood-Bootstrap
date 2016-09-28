@@ -1,0 +1,21 @@
+@import "variables.scss";
+
+.navbar-brand {
+    img {
+        display: inline-block;
+        padding-left: 20px;
+        padding-top: $navbar-padding-vertical / 2;
+    }
+}
+
+.student-name {
+  padding-left: 20px;
+  padding-top: $navbar-padding-vertical / 2;
+  display: inline-block;
+}
+
+@media screen and (max-width: $screen-sm) {
+  .student-name {
+    padding-left: 10px;
+  }
+}
